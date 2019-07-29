@@ -5,13 +5,13 @@ html {
 body {
     text-align: center;
     color: beige;
-    background-image: url(/dynamic-web-project/login-page/src/img/login-bg.jpg);
+    background-image: url(/dynamic-web-project/login-page/src/img/login-bg.png);
     background-size: cover;
     background-position: center;
 }
 
 h2 {
-    color: dimgrey;
+    color: white;
 }
 
 .button {
